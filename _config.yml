@@ -1,0 +1,9 @@
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: http://zhing.github.com
+author: zhing
+pygments: true
+safe: true
+paginate: 16
+auto: true
+
