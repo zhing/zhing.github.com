@@ -4,6 +4,7 @@ title: "初探WebService"
 description: ""
 category: Web
 tags: [Web]
+---
 在做Web工程的时候可能需要会使用到远程对象的传输，这个时候WebService就派上用场了，举一个最简单
 的例子，就是开发一个消息中间件时服务器需要将消息发送给中间件，当然这个中间件是基于Web的，使用Http
 协议，如果消息是一个有内部结构的对象，我们就需要使用WebService来完成任务。构建WebService一般有
